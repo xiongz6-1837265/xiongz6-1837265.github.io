@@ -1,0 +1,51 @@
+#Header{
+    width: 500px;
+    text-shadow: 2px 2px;
+    margin-left: auto;
+    margin-right:auto;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    border:solid 8px  rgb(179, 241, 120);
+    text-align:center;
+    background-color:rgb(224, 235, 76);
+}
+
+#Content{
+    list-style-type: none;
+    font-family: "Copperplate";
+    border:solid 8px black;
+    border-style: dotted;
+}
+
+#Content3{
+    list-style-type: none;
+    font-family: "Copperplate";
+    border-radius: 25px;
+    padding: 20px;
+    width: 220px;
+    height: 10px;
+    border:solid 8px rgb(179, 241, 120);
+    background-color: rgb(224, 235, 76);
+    float: right
+}
+   
+ul{
+    list-style-type: none;
+    font-family: "Passion One";
+    border:solid 8px black;
+    border-style: dotted;
+}
+
+
+img {
+    border: 5px solid #555;
+    margin: 20px;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff
+  }
